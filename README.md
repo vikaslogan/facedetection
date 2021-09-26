@@ -1,5 +1,5 @@
 # Face Detection
-We will build a face & eyes detection program. (Blue Squares: Face,  Green Squares: Eyes)
+We will build a face & eyes detection program. (Green Squares: Face,  Blue Squares: Eyes)
 
 For this program, we will OpenCV library.
 
