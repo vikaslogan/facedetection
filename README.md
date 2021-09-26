@@ -3,7 +3,7 @@ We will build a face & eyes detection program. (Green Squares: Face,  Blue Squar
 
 For this program, we will OpenCV library.
 
-Detailed explaination is given in Explaination.txt file to understand code.
+Detailed explaination is given in Explaination.doc file to understand code.
 
 Source Code is available in facedetection.py file
 
